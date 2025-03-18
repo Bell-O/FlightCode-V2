@@ -1,0 +1,6 @@
+cryptography
+argon2-cffi
+colorama
+pyfiglet
+pillow
+tk
