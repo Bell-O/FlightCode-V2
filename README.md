@@ -1,6 +1,5 @@
 # FlightCodeV2 - Advanced Secure File Encryption
 
-![FlightCodeV2](https://github.com/Bell-O/FlightCodeV2/banner.png)  
 **Version: 2.0**  
 FlightCodeV2 is an upgraded version of [FlightCodeV1](https://github.com/Bell-O/FlightCode), featuring enhanced security, better UI/UX, and additional functionalities for file encryption, decryption, and secure deletion.
 
