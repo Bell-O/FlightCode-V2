@@ -31,7 +31,7 @@ python flightcodev2.py
 
 ### **3. Run CLI Version**
 ```bash
-python flightcodev2CLI.py --help
+python flightcodev2CLI.py 
 ```
 
 ## 🖥️ GUI Usage
